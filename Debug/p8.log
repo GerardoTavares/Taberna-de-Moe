@@ -1,0 +1,13 @@
+﻿  Main_prac9.cpp
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(729): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(1911): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(1918): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(1924): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(1930): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2102): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2103): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2107): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2108): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2110): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\gerar\desktop\p8\p8\p8\main_prac9.cpp(2111): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  p8.vcxproj -> C:\Users\gerar\Desktop\P8\p8\Debug\p8.exe
